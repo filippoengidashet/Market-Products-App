@@ -1,4 +1,8 @@
-## Market products App (Features)
+# Market products App
+
+![Market Products-App](https://github.com/filippoengidashet/Market-Products-App/blob/main/files/demo.gif)
+
+#### Market products App (Features)
 
 * List all products screen (Persisted for offline access)
 * View product detail screen
@@ -14,6 +18,8 @@
 * Mockito, Junit, Espresso (Testing)
 
 #### Architecture - MVVM
+
+![Architecture](https://github.com/filippoengidashet/Market-Products-App/blob/main/files/arch.png)
 
 * The App is architected using Google’s recommended pattern
 * It survives continuous operation on the model side even on screen rotation, then once the view is ready it’ll be automatically reflected via the vie model
